@@ -4,3 +4,4 @@ pemograman dasar
 - css
 - php
 - javascript
+- golang
