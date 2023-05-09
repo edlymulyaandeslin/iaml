@@ -1,9 +1,12 @@
 pemograman dasar
-
 - html
 - php
 - javascript
 - golang
 nicegame
+
+- html
+- php
+- javascript
 
 hari ini hari yang sedikit menyebalkan, aku bangun dengan suasana hati yang tidak menyenangkan
