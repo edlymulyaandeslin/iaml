@@ -10,3 +10,6 @@ nicegame
 - javascript
 
 hari ini hari yang sedikit menyebalkan, aku bangun dengan suasana hati yang tidak menyenangkan
+
+pagi hari yang diawali dengan suasana hati yang tidak menyenangkan, satu hari akan menjadi hari yang menyebalkan 
+hari ini sangat bosan
