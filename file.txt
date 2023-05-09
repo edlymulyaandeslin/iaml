@@ -1,7 +1,7 @@
 pemograman dasar
 
 - html
-- css
 - php
 - javascript
 - golang
+nicegame
