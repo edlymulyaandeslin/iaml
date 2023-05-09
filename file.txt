@@ -1,7 +1,10 @@
 pemograman dasar
 - html
 - php
+  ^ laravel
 - javascript
+  ^ vue
+  ^ react
 - golang
 nicegame
 
