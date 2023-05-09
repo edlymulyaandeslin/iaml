@@ -5,3 +5,5 @@ pemograman dasar
 - javascript
 - golang
 nicegame
+
+hari ini hari yang sedikit menyebalkan, aku bangun dengan suasana hati yang tidak menyenangkan
