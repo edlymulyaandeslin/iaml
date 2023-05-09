@@ -8,6 +8,7 @@ nicegame
 - html
 - php
 - javascript
+badday
 
 hari ini hari yang sedikit menyebalkan, aku bangun dengan suasana hati yang tidak menyenangkan
 
